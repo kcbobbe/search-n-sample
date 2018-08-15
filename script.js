@@ -3,7 +3,7 @@ import request from 'superagent'
 
 var SONGS = []
 
-function onSubmit () {
+function onSubmit (event) {
   event.preventDefault()
   let query = document.getElementById('search').value
   getData(query)
