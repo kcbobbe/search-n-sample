@@ -91,7 +91,7 @@ audio {
 
 #myHeader {
   background: linear-gradient(to bottom, rgb(240, 240, 240), rgb(200, 200, 200));
-  padding-bottom: 1rem; // border-bottom:2px solid black;
+  padding-bottom: 1rem;
 }
 
 .sticky {
@@ -110,7 +110,7 @@ audio {
     font-size: 35px;
   }
   .results-container {
-    margin: auto; //   display:flex;
+    margin: auto;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
