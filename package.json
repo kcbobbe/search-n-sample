@@ -1,11 +1,12 @@
 {
   "private": true,
   "devDependencies": {
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.9.3",
     "parcel-bundler": "^1.8.1"
   },
   "dependencies": {
     "bootstrap": "^4.1.1",
+    "hoek": "^5.0.4",
     "superagent": "^3.8.3"
   }
 }
