@@ -1,4 +1,6 @@
-import request from 'superagent'
+// import request from 'superagent'
+const request = require('superagent')
+
 // import { SSL_OP_NO_QUERY_MTU } from 'constants';
 
 var SONGS = []
